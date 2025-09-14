@@ -1,30 +1,65 @@
 ### Hi there, I'm Vetrivel M 👋
 
-I'm a final-year Computer Science student with a passion for building applications that solve real-world problems. [cite_start]My journey into development has been driven by turning complex challenges into clean, user-friendly solutions, from AI-powered coding mentors to data-driven mobile apps[cite: 302, 298]. I'm particularly excited about leveraging AI to create more intuitive and helpful user experiences.
+I'm a final-year Computer Science student who loves turning complex problems into clean, user-friendly applications. My journey into development started with building full-stack and mobile apps, but I truly got excited when I integrated the Gemini API into my **Simplify** project. Seeing how AI could provide real-time, helpful feedback to a user has solidified my passion for building smarter, more intuitive software.
 
-I am actively seeking a full-time **Software Development Engineer** or **Full-Stack Developer** role where I can contribute to a creative team and make a meaningful impact. Feel free to reach out if you think I'd be a good fit!
+I'm currently looking for a full-time **Software Development Engineer** or **Full-Stack Developer** role where I can join a creative team and help build products that make an impact. If you're hiring, let's chat!
 
 ---
 
-### 🔭 My Projects
+### 🔭 A Couple of Things I've Built
 
-Here are a couple of projects I'm proud of:
+* **[Simplify (AI Coding Mentor)](https://simplify-opal.vercel.app/)**: An AI-powered virtual mentor built with Next.js that provides real-time feedback on code quality, security, and best practices.
+    * **[Live Demo](https://simplify-opal.vercel.app/)** | **[GitHub Repo](https://github.com/Jerry-AI-GT/Simplify)**
 
-- [cite_start]**Simplify (AI Coding Mentor)**: An AI-powered virtual mentor built with Next.js and the Gemini API that provides real-time feedback on code quality, security, and best practices[cite: 298]. ([Live Demo](https://simplify-opal.vercel.app/) | [GitHub Repo](https://github.com/Jerry-AI-GT/Simplify))
+* **[CropTrends (React Native App)](https://github.com/YOUR-USERNAME/CropTrends)**: A cross-platform mobile app for farmers that provides real-time market data and news to enable informed decision-making.
+    * **[GitHub Repo](https://github.com/YOUR-USERNAME/CropTrends)**
 
-- [cite_start]**CropTrends (React Native App)**: A cross-platform mobile app for farmers in Tamil Nadu that provides real-time market data and news to enable informed decision-making[cite: 302]. ([GitHub Repo](https://github.com/m-vetrivel/CropTrends)) ---
+---
 
-### 💻 Technologies & Tools I Use
+### 💻 Technologies & Tools
 
-- [cite_start]**Frontend:** React.js, Next.js, React Native, HTML5, CSS3, TailwindCSS [cite: 281]
-- [cite_start]**Backend:** Node.js, Express.js, Appwrite [cite: 282, 301]
-- [cite_start]**Languages:** JavaScript, Python, C++, Java [cite: 280]
-- [cite_start]**Databases:** MongoDB, SQL [cite: 283]
-- [cite_start]**Tools:** Git, GitHub, VS Code, Postman [cite: 285]
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend:</strong>
+      <ul>
+        <li>React.js / React Native</li>
+        <li>Next.js</li>
+        <li>HTML5 / CSS3</li>
+        <li>TailwindCSS</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend:</strong>
+      <ul>
+        <li>Node.js / Express.js</li>
+        <li>Appwrite</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages:</strong>
+      <ul>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>C++ / Java</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Databases & Tools:</strong>
+      <ul>
+        <li>MongoDB / SQL</li>
+        <li>Git / GitHub</li>
+        <li>VS Code / Postman</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📫 Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/m-vetrivel](https://www.linkedin.com/in/m-vetrivel/)
-- **Email:** [official.vetrivelm@gmail.com](mailto:official.vetrivelm@gmail.com)
+* **LinkedIn:** [linkedin.com/in/m-vetrivel](https://linkedin.com/in/m-vetrivel)
+* **Email:** [official.vetrivelm@gmail.com](mailto:official.vetrivelm@gmail.com)
