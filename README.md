@@ -11,8 +11,8 @@ I'm currently looking for a full-time **Software Development Engineer** or **Ful
 * **[Simplify (AI Coding Mentor)](https://simplify-opal.vercel.app/)**: An AI-powered virtual mentor built with Next.js that provides real-time feedback on code quality, security, and best practices.
     * **[Live Demo](https://simplify-opal.vercel.app/)** | **[GitHub Repo](https://github.com/Jerry-AI-GT/Simplify)**
 
-* **[CropTrends (React Native App)](https://github.com/YOUR-USERNAME/CropTrends)**: A cross-platform mobile app for farmers that provides real-time market data and news to enable informed decision-making.
-    * **[GitHub Repo](https://github.com/YOUR-USERNAME/CropTrends)**
+* **[CropTrends (React Native App)](https://github.com/m-vetrivel/CropTrends)**: A cross-platform mobile app for farmers that provides real-time market data and news to enable informed decision-making.
+    * **[GitHub Repo](https://github.com/m-vetrivel/CropTrends)**
 
 ---
 
